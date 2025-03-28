@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Bem-vindos ao meu perfil!
 
-<!--
-**fer-isa/fer-isa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou **Fernanda Isabelli**, uma estudante entusiasta de tecnologia e aprendizado contínuo. Aqui está um pouco sobre mim:
 
-Here are some ideas to get you started:
+- 🎓 Tenho **22 anos** e sou formada em **Análise e Desenvolvimento de Sistemas**.  
+- 💻 Estudo **C#** e **banco de dados MySQL no Senac SP** pelo programa **Transforme-se**.  
+- 📚 No programa **ONE** com a Alura, estou aprendendo **Java, SpringBoot e banco de dados**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Meus Objetivos  
+- Desenvolver minhas habilidades em programação e, quem sabe, um dia me tornar uma **desenvolvedora FullStack**.  
+
+## 🎵 Meus Hobbies  
+- **Música**: Amo ouvir minhas bandas favoritas, como **Within Temptation**, **Epica** e a incrível **Lady Gaga**.  
+- **Leitura**: Sou apaixonada por **livros de romance**, **mangás** , **manhwas** e **Doramas**.  
+
+## 🌟 Entre em contato!  
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborar em projetos incríveis. 🚀
