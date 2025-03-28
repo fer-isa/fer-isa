@@ -11,7 +11,8 @@ Olá! Sou **Fernanda Isabelli**, uma estudante entusiasta de tecnologia e aprend
 
 ## 🎵 Meus Hobbies  
 - **Música**: Amo ouvir minhas bandas favoritas, como **Within Temptation**, **Epica** e a incrível **Lady Gaga**.  
-- **Leitura**: Sou apaixonada por **livros de romance**, **mangás** , **manhwas** e **Doramas**.  
+- **Leitura**: Sou apaixonada por **livros de romance**, **mangás** , **manhwas** e **Doramas**.
+- **Assistir**: Amo assistir **Doramas** e **Animes**.
 
 ## 🌟 Entre em contato!  
 Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborar em projetos incríveis. 🚀
