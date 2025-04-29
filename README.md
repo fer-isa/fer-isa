@@ -2,7 +2,7 @@
 
 Olá! Sou **Fernanda Isabelli**, uma estudante entusiasta de tecnologia e aprendizado contínuo. Aqui está um pouco sobre mim:
 
-- 🎓 Tenho **22 anos** e sou formada em **Análise e Desenvolvimento de Sistemas**.  
+- 🎓 Tenho **23 anos** e sou formada em **Análise e Desenvolvimento de Sistemas**.  
 - 💻 Estudo **C#** e **banco de dados MySQL no Senac SP** pelo programa **Transforme-se**.  
 - 📚 No programa **ONE** com a Alura, estou aprendendo **Java, SpringBoot e banco de dados**.  
 
