@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/fernanda-isabelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<p align="center">📧 Ou se preferir, entre em contato diretamente pelo e-mail: <b>fernandaisa111@gmail</b></p>
+<p align="center">📧 Ou se preferir, entre em contato diretamente pelo e-mail: <b>fernandaisa111@gmail.com</b></p>
 
 <br>
 
