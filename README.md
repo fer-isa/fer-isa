@@ -1,22 +1,36 @@
-👋 Bem-vindos ao meu perfil!
+# Olá, eu sou a Fernanda Isabelli! 👋
 
-Olá! Sou Fernanda Isabelli, uma profissional de tecnologia focada em resolução de problemas, processos e atendimento de excelência. Aqui está um pouco sobre mim:
+> *"Profissional de tecnologia focada em resolução de problemas, processos e atendimento de excelência."*
 
-🎓 Tenho 24 anos, sou formada em Análise e Desenvolvimento de Sistemas e possuo certificação como Programadora de Sistemas pelo SENAC SP (programa Transforme-se). 
-📚 Atualmente, sou aluna da Formação Mulher Digital, aprofundando meus conhecimentos em infraestrutura, redes e segurança.
-💼 Trago na minha bagagem a vivência na área de Projetos de TI, o que me proporcionou uma base sólida em liderança, comunicação assertiva, trabalho em equipe e metodologias ágeis.
+---
 
-🎯 Meus Objetivos
+### 👩‍💻 Sobre mim
 
-Estou em transição de carreira para a linha de frente da tecnologia, buscando atuar em **Suporte de TI / Help Desk**. Meu grande objetivo a longo prazo é migrar para a área de **Cibersegurança**.
-Para consolidar essa jornada, estou me preparando ativamente para obter as certificações de Suporte em TI do **Google** e da **Cisco**.
+* 🎓 Tenho 24 anos e sou formada em **Análise e Desenvolvimento de Sistemas**.
+* 📜 Possuo certificação como **Programadora de Sistemas** pelo SENAC SP (programa *Transforme-se*).
+* 💼 Atuo na área de **Projetos de TI**, o que me deu uma base forte em liderança, metodologias ágeis, comunicação assertiva e trabalho em equipe.
+* 📚 Atualmente, sou aluna da **Formação Mulher Digital**, aprofundando meus conhecimentos em infraestrutura, redes e segurança.
 
-🎵 Meus Hobbies
+---
 
-* **Música:** Amo ouvir minhas bandas favoritas, como Within Temptation, Epica e a incrível Lady Gaga.
-* **Leitura:** Sou apaixonada por livros de romance, mangás e manhwas.
-* **Assistir:** Amo maratonar Doramas e Animes no meu tempo livre.
+### 🎯 Foco e Transição de Carreira
 
-🌟 Entre em contato!
+Estou em transição ativa de carreira para a linha de frente da tecnologia! 
 
-Sinta-se à vontade para explorar meus repositórios de estudos ou entrar em contato para trocarmos ideias e experiências. 🚀
+* 🎧 **Curto prazo:** Atuar em **Suporte de TI / Help Desk**, garantindo o melhor atendimento e resolução de problemas.
+* 🛡️ **Longo prazo:** Migrar definitivamente para a área de **Cibersegurança**.
+* 🏆 **Aperfeiçoamento:** Me preparando intensamente para obter as certificações de Suporte em TI do **Google** e da **Cisco**.
+
+---
+
+### 🍿 O que eu faço no tempo livre?
+
+* 🎧 **Música:** Sou do rock, metal e pop! Minhas favoritas incluem *Within Temptation*, *Epica* e a incrível *Lady Gaga*.
+* 📖 **Leitura:** Sou apaixonada por livros de romance, mangás e manhwas.
+* 📺 **Assistir:** Amo maratonar *Doramas* e *Animes*.
+
+---
+
+### 📫 Vamos nos conectar?
+
+Sinta-se à vontade para explorar meus repositórios de estudos ou entrar em contato para trocarmos ideias sobre suporte, segurança e tecnologia! 🚀
