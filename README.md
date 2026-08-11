@@ -5,8 +5,8 @@
 
 <!-- Botões de Contato -->
 <div align="center">
-  <a href="seu-link-do-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernanda-isabelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:fernandaisa111@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
@@ -45,5 +45,5 @@ Estou em transição ativa de carreira para a linha de frente da tecnologia!
 
 <!-- Card de Estatísticas -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&hide_border=true" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fer-isa-AQUI&show_icons=true&theme=radical&hide_border=true" width="400px" />
 </div>
