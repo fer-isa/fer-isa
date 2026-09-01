@@ -1,79 +1,262 @@
-<!-- Banner Animado no Topo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Fernanda%20Isabelli&fontSize=70&fontAlignY=35&desc=Em%20transição%20para%20Suporte%20de%20TI%20e%20Cibersegurança&descAlignY=55&descAlign=50" />
-</div>
 
-<!-- Animação de Apresentação Dinâmica -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=%3C%2F%3E+Bem-vinda(o)+ao+meu+espa%C3%A7o+tech!;Focada+em+Suporte+N1%2C+Redes+e+Ciberseguran%C3%A7a.;Transformando+processos+em+solu%C3%A7%C3%B5es+seguras." alt="Apresentação Dinâmica" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Fernanda%20Isabelli&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Tecnologia%20%7C%20Ciberseguran%C3%A7a&descAlignY=55&descSize=20&descColor=58A6FF&animation=fadeIn" width="100%" />
 
-<!-- Botões de Contato e Currículo -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/fernanda-isabelli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:fernandaisa111@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="LINK_DO_SEU_CURRICULO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo_PDF-2BAE66?style=for-the-badge&logo=googledrive&logoColor=white" alt="Currículo Badge" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Profissional+de+Tecnologia;Em+transi%C3%A7%C3%A3o+para+Ciberseguran%C3%A7a;Estudando%2C+construindo+e+documentando+essa+jornada." alt="Typing animation" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/fernanda-Isabelli">
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="mailto:fernandaisa111@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+</a>
+&nbsp;
+<a href="https://github.com/fer-isa/Minhas-Notas">
+<img src="https://img.shields.io/badge/MINHAS%20NOTAS-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a>
+
 </div>
 
 <br>
 
 <div align="center">
-  <em>"Aliando visão de processos, comunicação assertiva e rigor operacional para solucionar problemas técnicos e fortalecer a segurança da informação."</em>
+
+### ✦ Tecnologia → Cibersegurança
+
 </div>
 
 ---
 
-### 👩‍💻 Sobre Mim
+## Sobre mim
 
-- 🎓 Graduada em **Análise e Desenvolvimento de Sistemas** (Faculdade Descomplica).
-- 🛡️ Cursando a **Certificação Internacional em Cibersegurança** (JA Américas / Mulher Digital) e em preparação para o **Cisco CCST**.
-- 💼 Experiência como **Assistente de Projetos de TI**, com foco em validação de evidências, conformidade de políticas e SLAs, documentação técnica e suporte operacional.
-- 🎯 **Objetivo Atual:** Atuar como **Analista de Suporte / Help Desk N1** ou **Assistente de TI**, construindo base sólida para progressão em **Cibersegurança / SOC**.
+Sou uma profissional de Tecnologia, formada em **Análise e Desenvolvimento de Sistemas**, construindo uma nova direção para minha carreira na área de **Cibersegurança**.
+
+Minha trajetória reúne experiências em Tecnologia e diferentes projetos desenvolvidos ao longo da minha formação. Hoje, estou direcionando meus estudos para compreender melhor a área de segurança e fortalecer meus conhecimentos técnicos.
+
+Este perfil acompanha essa transição.
+
+Aqui você encontrará **projetos, estudos, anotações e laboratórios**, registrados conforme forem sendo desenvolvidos.
 
 ---
-
-### 🛠️ Competências Técnicas & Ferramentas
 
 <div align="center">
-  <!-- Suporte e Sistemas -->
-  <img src="https://img.shields.io/badge/Help_Desk_N1-0A84FF?style=for-the-badge&logo=buffer&logoColor=white" alt="Help Desk" />
-  <img src="https://img.shields.io/badge/Troubleshooting-30D158?style=for-the-badge&logo=diagnostics&logoColor=white" alt="Troubleshooting" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  
-  <br>
 
-  <!-- Redes e Segurança -->
-  <img src="https://img.shields.io/badge/TCP%2FIP_&_DNS-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" />
-  <img src="https://img.shields.io/badge/Cybersecurity_Defense-FF453A?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+## Minha jornada
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎓
+
+**Formação**
+
+Análise e Desenvolvimento de Sistemas
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Tecnologia**
+
+Experiências e projetos na área
+
+</td>
+
+<td align="center" width="25%">
+
+### ↗
+
+**Transição**
+
+Nova direção profissional
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+**Cibersegurança**
+
+Estudos e construção de conhecimento
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-### 📜 Certificações & Formações Relevantes
-
-| Formação / Certificação | Instituição | Status |
-| :--- | :--- | :---: |
-| 🛡️ **Certificação Internacional em Cibersegurança** | JA Américas • Mulher Digital | <img src="https://img.shields.io/badge/Em%20Andamento-F39C12?style=flat-square&logo=clock&logoColor=white" alt="Em Andamento" /> |
-| 🌐 **Cisco Certified Support Technician (CCST)** | Cisco Networking Academy | <img src="https://img.shields.io/badge/Previsão%20Dez%2F2026-3498DB?style=flat-square&logo=cisco&logoColor=white" alt="Previsão 2026" /> |
-| 💻 **Suporte em TI (120h)** | Google • Coursera | <img src="https://img.shields.io/badge/Em%20Andamento-F39C12?style=flat-square&logo=google&logoColor=white" alt="Em Andamento" /> |
-| 📈 **Gestão de Projetos em TI (120h)** | QualificaSP | <img src="https://img.shields.io/badge/Concluído-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Concluído" /> |
-| ⚙️ **Programadora de Sistemas** | Senac SP • Transforme-se | <img src="https://img.shields.io/badge/Concluído-2ECC71?style=flat-square&logo=checkmarx&logoColor=white" alt="Concluído" /> |
-
----
-
-### 📊 Estatísticas no GitHub
+## 📚 O que estou construindo
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=fer-isa&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fer-isa&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Langs" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Redes
+
+Estudos voltados aos fundamentos de redes e à compreensão de como dispositivos e sistemas se comunicam.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛡️ Cibersegurança
+
+Construção gradual de conhecimentos na área por meio de cursos, estudos e práticas.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Laboratórios
+
+Atividades práticas desenvolvidas durante meus estudos e documentadas conforme avanço.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📖 Documentação
+
+Registro dos conteúdos estudados, aprendizados e experiências desenvolvidas ao longo da jornada.
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+## ⭐ Destaque
+
+<div align="center">
+
+<a href="https://github.com/fer-isa/Minhas-Notas">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fer-isa&repo=Minhas-Notas&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+
+</a>
+
+</div>
+
+### `Minhas-Notas`
+
+Meu espaço de estudos e documentação.
+
+O repositório reúne anotações, materiais, sínteses e conteúdos desenvolvidos durante minha formação em Cibersegurança, além da área de **Laboratórios**, que será ampliada conforme novos estudos e atividades forem realizados.
+
+**[ → Explorar Minhas-Notas](https://github.com/fer-isa/Minhas-Notas)**
+
+---
+
+## 💻 Projetos
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Conversor de Moedas
+
+Projeto desenvolvido durante minha formação em programação.
+
+**Java**
+
+[Ver projeto →](https://github.com/fer-isa/ConversorDeMoedas_ChallengeAluraONE)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Jogo do Número Secreto
+
+Projeto desenvolvido durante meus estudos em programação.
+
+[Ver projeto →](https://github.com/fer-isa/jogo-do-numero-secreto)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Portfólio
+
+Projeto desenvolvido durante minha trajetória de formação em Tecnologia.
+
+[Ver projeto →](https://github.com/fer-isa/portifolio-fer-isa)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Alura Geek
+
+Projeto desenvolvido durante a formação em desenvolvimento web.
+
+[Ver projeto →](https://github.com/fer-isa/Alura-Geek_E-comerce)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎓 Formação & estudos
+
+<div align="center">
+
+| Formação / Curso                                | Instituição                  |
+| :---------------------------------------------- | :--------------------------- |
+| **Análise e Desenvolvimento de Sistemas**       | Faculdade Descomplica        |
+| **Cibersegurança**                              | JA Américas · Mulher Digital |
+| **Suporte em TI**                               | Google · Coursera            |
+| **Gestão de Projetos em TI**                    | QualificaSP                  |
+| **Programadora de Sistemas**                    | Senac SP · Transforme-se     |
+| **Começando com o Cisco Packet Tracer**         | Cisco Networking Academy     |
+| **Dispositivos de Rede e Configuração Inicial** | Cisco Networking Academy     |
+| **Conceitos Básicos de Rede**                   | Cisco Networking Academy     |
+
+</div>
+
+---
+
+<div align="center">
+
+### `estudar → praticar → documentar → evoluir`
+
+<br>
+
+**Fernanda Isabelli**
+
+<br>
+
+<a href="https://www.linkedin.com/in/fernanda-Isabelli">LinkedIn</a>
+  ·   <a href="mailto:fernandaisa111@gmail.com">Email</a>
+  ·   <a href="https://github.com/fer-isa">GitHub</a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:161B22,100:0D1117&height=100&section=footer" width="100%" />
