@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=220&section=header&text=Fernanda%20Isabelli&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Tecnologia%20%7C%20Ciberseguran%C3%A7a&descAlignY=55&descSize=20&descColor=58A6FF&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1A365D,100:2A4365&height=220&section=header&text=Fernanda%20Isabelli&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=Tecnologia%20%7C%20Ciberseguran%C3%A7a&descAlignY=55&descSize=20&descColor=58A6FF&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Profissional+de+Tecnologia;Em+transi%C3%A7%C3%A3o+para+Ciberseguran%C3%A7a;Estudando%2C+construindo+e+documentando+essa+jornada." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Assistente+de+Projetos;Em+transi%C3%A7%C3%A3o+para+Ciberseguran%C3%A7a;Foco+em+SOC%2C+Processos+e+Documenta%C3%A7%C3%A3o." alt="Typing animation" />
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-### ✦ Tecnologia → Cibersegurança
+### ✦ Assistente de Projetos → Cibersegurança
 
 </div>
 
@@ -32,13 +32,11 @@
 
 ## Sobre mim
 
-Sou uma profissional de Tecnologia, formada em **Análise e Desenvolvimento de Sistemas**, construindo uma nova direção para minha carreira na área de **Cibersegurança**.
+Sou uma profissional com experiência consolidada como **Assistente de Projetos**, onde desenvolvi fortes habilidades em organização, mapeamento de processos, liderança de entregas e documentação. Atualmente, estou direcionando toda essa bagagem analítica para a área de **Cibersegurança**.
 
-Minha trajetória reúne experiências em Tecnologia e diferentes projetos desenvolvidos ao longo da minha formação. Hoje, estou direcionando meus estudos para compreender melhor a área de segurança e fortalecer meus conhecimentos técnicos.
+Meu objetivo é atuar em um **SOC** (Security Operations Center), unindo minha facilidade com processos e visão sistêmica para apoiar a triagem de incidentes, o monitoramento e a estruturação de relatórios claros e precisos.
 
-Este perfil acompanha essa transição.
-
-Aqui você encontrará **projetos, estudos, anotações e laboratórios**, registrados conforme forem sendo desenvolvidos.
+Aqui você encontrará meus estudos, laboratórios de redes e registros de aprendizado, documentados de forma contínua enquanto construo minha base técnica.
 
 ---
 
@@ -50,21 +48,21 @@ Aqui você encontrará **projetos, estudos, anotações e laboratórios**, regis
 <tr>
 <td align="center" width="25%">
 
-### 🎓
+### 📋
 
-**Formação**
+**Projetos**
 
-Análise e Desenvolvimento de Sistemas
+Experiência em organização e processos
 
 </td>
 
 <td align="center" width="25%">
 
-### 💻
+### 💡
 
-**Tecnologia**
+**Lógica**
 
-Experiências e projetos na área
+Liderança técnica e resolução de problemas
 
 </td>
 
@@ -74,7 +72,7 @@ Experiências e projetos na área
 
 **Transição**
 
-Nova direção profissional
+Foco analítico direcionado à Segurança
 
 </td>
 
@@ -84,7 +82,7 @@ Nova direção profissional
 
 **Cibersegurança**
 
-Estudos e construção de conhecimento
+Estudos de redes e monitoramento
 
 </td>
 </tr>
@@ -102,17 +100,17 @@ Estudos e construção de conhecimento
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Redes
+### 🌐 Redes & Infraestrutura
 
-Estudos voltados aos fundamentos de redes e à compreensão de como dispositivos e sistemas se comunicam.
+Estudos voltados aos fundamentos de redes, tráfego de dados e comunicação entre dispositivos (Cisco).
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛡️ Cibersegurança
+### 🛡️ Operações de Segurança (SOC)
 
-Construção gradual de conhecimentos na área por meio de cursos, estudos e práticas.
+Construção gradual da base necessária para atuar na triagem e investigação de incidentes.
 
 </td>
 </tr>
@@ -120,17 +118,17 @@ Construção gradual de conhecimentos na área por meio de cursos, estudos e pr�
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Laboratórios
+### 🧪 Laboratórios Práticos
 
-Atividades práticas desenvolvidas durante meus estudos e documentadas conforme avanço.
+Práticas em ambientes como Packet Tracer e análises utilizando Wireshark.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📖 Documentação
+### 📖 Documentação Técnica
 
-Registro dos conteúdos estudados, aprendizados e experiências desenvolvidas ao longo da jornada.
+Registro estruturado dos conteúdos estudados, aplicando minha vivência com processos e organização.
 
 </td>
 </tr>
@@ -154,15 +152,15 @@ Registro dos conteúdos estudados, aprendizados e experiências desenvolvidas ao
 
 ### `Minhas-Notas`
 
-Meu espaço de estudos e documentação.
+Meu espaço central de estudos e laboratórios.
 
-O repositório reúne anotações, materiais, sínteses e conteúdos desenvolvidos durante minha formação em Cibersegurança, além da área de **Laboratórios**, que será ampliada conforme novos estudos e atividades forem realizados.
+O repositório reúne anotações, *badges* oficiais, topologias de rede e conteúdos desenvolvidos durante minha capacitação em Cibersegurança. Este é um ambiente vivo, ampliado conforme avanço em novas práticas e certificações.
 
 **[ → Explorar Minhas-Notas](https://github.com/fer-isa/Minhas-Notas)**
 
 ---
 
-## 💻 Projetos
+## 🔬 Práticas e Laboratórios
 
 <div align="center">
 
@@ -171,23 +169,25 @@ O repositório reúne anotações, materiais, sínteses e conteúdos desenvolvid
 
 <td width="50%" valign="top">
 
-### Conversor de Moedas
+### Topologias de Rede
 
-Projeto desenvolvido durante minha formação em programação.
+Configuração inicial de redes, roteadores e switches em ambiente simulado.
 
-**Java**
+**Cisco Packet Tracer**
 
-[Ver projeto →](https://github.com/fer-isa/ConversorDeMoedas_ChallengeAluraONE)
+[Ver laboratórios →](https://github.com/fer-isa/Minhas-Notas)
 
 </td>
 
 <td width="50%" valign="top">
 
-### Jogo do Número Secreto
+### Análise de Tráfego
 
-Projeto desenvolvido durante meus estudos em programação.
+Estudos iniciais sobre captura de pacotes e funcionamento de protocolos.
 
-[Ver projeto →](https://github.com/fer-isa/jogo-do-numero-secreto)
+**Wireshark | Redes**
+
+[Ver anotações →](https://github.com/fer-isa/Minhas-Notas)
 
 </td>
 
@@ -197,21 +197,25 @@ Projeto desenvolvido durante meus estudos em programação.
 
 <td width="50%" valign="top">
 
-### Portfólio
+### Documentação e Processos
 
-Projeto desenvolvido durante minha trajetória de formação em Tecnologia.
+Aplicação de gestão de projetos na estruturação de registros técnicos.
 
-[Ver projeto →](https://github.com/fer-isa/portifolio-fer-isa)
+**Organização | Markdown**
+
+[Ver estrutura →](https://github.com/fer-isa/Minhas-Notas)
 
 </td>
 
 <td width="50%" valign="top">
 
-### Alura Geek
+### Liderança em Projetos Tech
 
-Projeto desenvolvido durante a formação em desenvolvimento web.
+Experiência guiando equipe técnica até a entrega final em projeto colaborativo.
 
-[Ver projeto →](https://github.com/fer-isa/Alura-Geek_E-comerce)
+**Transforme-se**
+
+[Saiba mais →](https://github.com/fer-isa/Minhas-Notas)
 
 </td>
 
@@ -228,14 +232,14 @@ Projeto desenvolvido durante a formação em desenvolvimento web.
 
 | Formação / Curso                                | Instituição                  |
 | :---------------------------------------------- | :--------------------------- |
-| **Análise e Desenvolvimento de Sistemas**       | Faculdade Descomplica        |
-| **Cibersegurança**                              | JA Américas · Mulher Digital |
+| **Cibersegurança (Trilhas & Soft Skills)**      | JA Américas · Mulher Digital |
 | **Suporte em TI**                               | Google · Coursera            |
 | **Gestão de Projetos em TI**                    | QualificaSP                  |
 | **Programadora de Sistemas**                    | Senac SP · Transforme-se     |
 | **Começando com o Cisco Packet Tracer**         | Cisco Networking Academy     |
 | **Dispositivos de Rede e Configuração Inicial** | Cisco Networking Academy     |
 | **Conceitos Básicos de Rede**                   | Cisco Networking Academy     |
+| **Introdução à Cibersegurança**                 | Cisco Networking Academy     |
 
 </div>
 
@@ -243,7 +247,7 @@ Projeto desenvolvido durante a formação em desenvolvimento web.
 
 <div align="center">
 
-### `estudar → praticar → documentar → evoluir`
+### `investigar → estruturar → documentar → proteger`
 
 <br>
 
@@ -252,11 +256,11 @@ Projeto desenvolvido durante a formação em desenvolvimento web.
 <br>
 
 <a href="https://www.linkedin.com/in/fernanda-Isabelli">LinkedIn</a>
-  ·   <a href="mailto:fernandaisa111@gmail.com">Email</a>
-  ·   <a href="https://github.com/fer-isa">GitHub</a>
+  ·   <a href="mailto:fernandaisa111@gmail.com">Email</a>
+  ·   <a href="https://github.com/fer-isa">GitHub</a>
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,50:161B22,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A4365,50:1A365D,100:0B1D3A&height=100&section=footer" width="100%" />
