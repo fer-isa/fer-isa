@@ -142,21 +142,19 @@ Registro estruturado dos conteúdos estudados, aplicando minha vivência com org
 
 <div align="center">
 
+### 🛡️ [`Minhas-Notas`](https://github.com/fer-isa/Minhas-Notas)
+
+Meu espaço central de estudos e laboratórios práticos.
+
+O repositório reúne anotações estruturadas, topologias de rede (Cisco), análises de pacotes (Wireshark) e conteúdos desenvolvidos durante minha capacitação em Cibersegurança e operações de SOC.
+
+<br>
+
 <a href="https://github.com/fer-isa/Minhas-Notas">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fer-isa&repo=Minhas-Notas&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
-
+  <img src="https://img.shields.io/badge/Explorar_Reposit%C3%B3rio-58A6FF?style=for-the-badge&logo=github&logoColor=0B1D3A" alt="Explorar Minhas-Notas" />
 </a>
 
 </div>
-
-### `Minhas-Notas`
-
-Meu espaço central de estudos e laboratórios.
-
-O repositório reúne anotações, *badges* oficiais, topologias de rede e conteúdos desenvolvidos durante minha capacitação em Cibersegurança. Este é um ambiente vivo, ampliado conforme avanço em novas práticas e certificações.
-
-**[ → Explorar Minhas-Notas](https://github.com/fer-isa/Minhas-Notas)**
 
 ---
 
