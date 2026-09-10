@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/fernanda-Isabelli">
+<a href="https://www.linkedin.com/in/fernanda-isabelli/">
 <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 &nbsp;
@@ -120,7 +120,7 @@ Construção gradual da base necessária para atuar na triagem e investigação 
 
 ### 🧪 Laboratórios Práticos
 
-Práticas em ambientes como Packet Tracer e análises utilizando Wireshark.
+Práticas em ambientes simulados como Packet Tracer e análises utilizando Wireshark.
 
 </td>
 
@@ -128,7 +128,7 @@ Práticas em ambientes como Packet Tracer e análises utilizando Wireshark.
 
 ### 📖 Documentação Técnica
 
-Registro estruturado dos conteúdos estudados, aplicando minha vivência com processos e organização.
+Registro estruturado dos conteúdos estudados, aplicando minha vivência com organização.
 
 </td>
 </tr>
@@ -197,11 +197,11 @@ Estudos iniciais sobre captura de pacotes e funcionamento de protocolos.
 
 <td width="50%" valign="top">
 
-### Documentação e Processos
+### Organização de Estudos
 
-Aplicação de gestão de projetos na estruturação de registros técnicos.
+Estruturação e registro contínuo da minha jornada de aprendizado em cibersegurança.
 
-**Organização | Markdown**
+**Gestão do Conhecimento | Markdown**
 
 [Ver estrutura →](https://github.com/fer-isa/Minhas-Notas)
 
@@ -211,11 +211,11 @@ Aplicação de gestão de projetos na estruturação de registros técnicos.
 
 ### Liderança em Projetos Tech
 
-Experiência guiando equipe técnica até a entrega final em projeto colaborativo.
+Experiência guiando a equipe até a entrega do projeto final InnovaOwl.
 
-**Transforme-se**
+**Transforme-se | C#**
 
-[Saiba mais →](https://github.com/fer-isa/Minhas-Notas)
+[Ver projeto →](https://github.com/fer-isa/Projeto-InnovaOwl)
 
 </td>
 
@@ -255,7 +255,7 @@ Experiência guiando equipe técnica até a entrega final em projeto colaborativ
 
 <br>
 
-<a href="https://www.linkedin.com/in/fernanda-Isabelli">LinkedIn</a>
+<a href="https://www.linkedin.com/in/fernanda-isabelli/">LinkedIn</a>
   ·   <a href="mailto:fernandaisa111@gmail.com">Email</a>
   ·   <a href="https://github.com/fer-isa">GitHub</a>
 
